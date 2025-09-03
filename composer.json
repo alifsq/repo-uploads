@@ -1,0 +1,16 @@
+{
+    "name": "alifsq/repo-uploads",
+    "description": "belajar php composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "alif"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Programmers\\": "src/"
+        }
+    },
+    "require": {}
+}
